@@ -1,7 +1,6 @@
 ## Hi there 👋 I am Ashish
 🚀 **Freelance Web Developer** | 🌐 Building modern, responsive, and scalable web applications.
-<!--
-**ashishkr26/Ashishkr26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 ## 🛠️ Skills
 
 ![HTML](https://img.shields.io/badge/-HTML-orange?style=for-the-badge&logo=html5&logoColor=white)
@@ -12,7 +11,6 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-green?style=for-the-badge&logo=node.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-
 ## 💼 Services
 - 🌟 Responsive website development
 - ⚛️ Single-page applications (SPA) with React
@@ -20,9 +18,7 @@
 - 🔄 API integration and development
 - 🔧 Maintenance and optimization
 
-
 ## 📫 Let's Connect!
-- 🌐 [Portfolio Website]: Uploadning....)
-- 💼 
-- ✉️ Email: [ashish.dypcoe@gmail.com)
--->
+- 🌐 **Portfolio Website**: Uploading...
+- 💼 **LinkedIn**: Coming Soon
+- ✉️ **Email**: [ashish.dypcoe@gmail.com](mailto:ashish.dypcoe@gmail.com)
