@@ -1,16 +1,28 @@
-## Hi there 👋
-
+## Hi there 👋 I am Ashish
+🚀 **Freelance Web Developer** | 🌐 Building modern, responsive, and scalable web applications.
 <!--
 **ashishkr26/Ashishkr26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Skills
 
-Here are some ideas to get you started:
+![HTML](https://img.shields.io/badge/-HTML-orange?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-green?style=for-the-badge&logo=node.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+## 💼 Services
+- 🌟 Responsive website development
+- ⚛️ Single-page applications (SPA) with React
+- 🎨 UI/UX design integration with Tailwind CSS
+- 🔄 API integration and development
+- 🔧 Maintenance and optimization
+
+
+## 📫 Let's Connect!
+- 🌐 [Portfolio Website]: Uploadning....)
+- 💼 
+- ✉️ Email: [ashish.dypcoe@gmail.com)
 -->
