@@ -20,5 +20,5 @@
 
 ## 📫 Let's Connect!
 - 🌐 **Portfolio Website**: Uploading...
-- 💼 **LinkedIn**: Coming Soon
+- 💼 **LinkedIn**: (https://www.linkedin.com/in/ashishkumarb/)
 - ✉️ **Email**: [ashish.dypcoe@gmail.com](mailto:ashish.dypcoe@gmail.com)
